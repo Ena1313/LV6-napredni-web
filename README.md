@@ -8,7 +8,6 @@ Aplikacija je izrađena pomoću **Node.js**, **Express.js** i **MongoDB**, uz ko
 Funkcionalnosti uključuju:
 - Kreiranje, prikaz, uređivanje i brisanje projekata
 - Dodavanje članova tima po projektu
-- Prikaz svih članova uz osnovne informacije (ime, prezime, uloga)
 - Navigacija između stranica
 
 ## Pokretanje aplikacije
